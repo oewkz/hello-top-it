@@ -2,5 +2,6 @@
 
 int main()
 {
-	std::count << "Hello, top-it\n";
+	std::cout << "Hello, top-it\n";
+	std::cout << "bla bla\n";
 }
